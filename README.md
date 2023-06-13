@@ -1,6 +1,4 @@
-# FASHION-MNIST-DATA-CLASSIFICATION
 
-To convert the description into a README file, you can follow this format:
 
 # Fashion MNIST Data Classification
 
